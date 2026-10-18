@@ -1,0 +1,40 @@
+{
+  "agent_id": "Consistent-2D-Pan-Zoom-ColorPop-Director",
+  "domain_id": "D5_25d_video_reels_and_motion_graphics",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__consistent_2d_pan_zoom_colorpop_director__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__consistent_2d_pan_zoom_colorpop_director__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__consistent_2d_pan_zoom_colorpop_director__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

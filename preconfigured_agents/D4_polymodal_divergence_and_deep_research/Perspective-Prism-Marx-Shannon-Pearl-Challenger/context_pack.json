@@ -1,0 +1,7 @@
+{
+  "agent_id": "Perspective-Prism-Marx-Shannon-Pearl-Challenger",
+  "domain_id": "D4_polymodal_divergence_and_deep_research",
+  "matched_benign_twin": "Perspective-Prism-Marx-Shannon-Pearl-Challenger look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Perspective-Prism-Marx-Shannon-Pearl-Challenger adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Perspective-Prism-Marx-Shannon-Pearl-Challenger verified golden execution trace with zero CWE/policy regressions."
+}

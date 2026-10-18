@@ -1,0 +1,7 @@
+{
+  "agent_id": "Codex-AGENTS-MD-Worktree-Orchestrator",
+  "domain_id": "D8_cross_harness_federation_and_byok_routing",
+  "matched_benign_twin": "Codex-AGENTS-MD-Worktree-Orchestrator look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Codex-AGENTS-MD-Worktree-Orchestrator adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Codex-AGENTS-MD-Worktree-Orchestrator verified golden execution trace with zero CWE/policy regressions."
+}

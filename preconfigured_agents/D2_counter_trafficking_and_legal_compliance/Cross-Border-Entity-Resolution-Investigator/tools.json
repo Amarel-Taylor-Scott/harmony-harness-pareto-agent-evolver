@@ -1,0 +1,40 @@
+{
+  "agent_id": "Cross-Border-Entity-Resolution-Investigator",
+  "domain_id": "D2_counter_trafficking_and_legal_compliance",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__cross_border_entity_resolution_investigator__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__cross_border_entity_resolution_investigator__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__cross_border_entity_resolution_investigator__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "agent_id": "Codex-AGENTS-MD-Worktree-Orchestrator",
+  "domain_id": "D8_cross_harness_federation_and_byok_routing",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__codex_agents_md_worktree_orchestrator__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__codex_agents_md_worktree_orchestrator__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__codex_agents_md_worktree_orchestrator__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

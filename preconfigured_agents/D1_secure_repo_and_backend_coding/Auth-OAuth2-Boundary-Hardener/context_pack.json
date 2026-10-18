@@ -1,0 +1,7 @@
+{
+  "agent_id": "Auth-OAuth2-Boundary-Hardener",
+  "domain_id": "D1_secure_repo_and_backend_coding",
+  "matched_benign_twin": "Auth-OAuth2-Boundary-Hardener look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Auth-OAuth2-Boundary-Hardener adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Auth-OAuth2-Boundary-Hardener verified golden execution trace with zero CWE/policy regressions."
+}

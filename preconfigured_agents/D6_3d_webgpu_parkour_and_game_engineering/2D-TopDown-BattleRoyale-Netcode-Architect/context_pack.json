@@ -1,0 +1,7 @@
+{
+  "agent_id": "2D-TopDown-BattleRoyale-Netcode-Architect",
+  "domain_id": "D6_3d_webgpu_parkour_and_game_engineering",
+  "matched_benign_twin": "2D-TopDown-BattleRoyale-Netcode-Architect look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "2D-TopDown-BattleRoyale-Netcode-Architect adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "2D-TopDown-BattleRoyale-Netcode-Architect verified golden execution trace with zero CWE/policy regressions."
+}

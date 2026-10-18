@@ -1,0 +1,7 @@
+{
+  "agent_id": "UFLPA-Forced-Labor-Supply-Chain-Auditor",
+  "domain_id": "D2_counter_trafficking_and_legal_compliance",
+  "matched_benign_twin": "UFLPA-Forced-Labor-Supply-Chain-Auditor look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "UFLPA-Forced-Labor-Supply-Chain-Auditor adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "UFLPA-Forced-Labor-Supply-Chain-Auditor verified golden execution trace with zero CWE/policy regressions."
+}

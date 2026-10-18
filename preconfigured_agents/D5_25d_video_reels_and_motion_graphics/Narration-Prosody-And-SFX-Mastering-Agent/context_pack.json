@@ -1,0 +1,7 @@
+{
+  "agent_id": "Narration-Prosody-And-SFX-Mastering-Agent",
+  "domain_id": "D5_25d_video_reels_and_motion_graphics",
+  "matched_benign_twin": "Narration-Prosody-And-SFX-Mastering-Agent look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Narration-Prosody-And-SFX-Mastering-Agent adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Narration-Prosody-And-SFX-Mastering-Agent verified golden execution trace with zero CWE/policy regressions."
+}

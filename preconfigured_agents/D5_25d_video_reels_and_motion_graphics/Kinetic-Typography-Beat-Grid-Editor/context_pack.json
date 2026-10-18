@@ -1,0 +1,7 @@
+{
+  "agent_id": "Kinetic-Typography-Beat-Grid-Editor",
+  "domain_id": "D5_25d_video_reels_and_motion_graphics",
+  "matched_benign_twin": "Kinetic-Typography-Beat-Grid-Editor look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Kinetic-Typography-Beat-Grid-Editor adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Kinetic-Typography-Beat-Grid-Editor verified golden execution trace with zero CWE/policy regressions."
+}

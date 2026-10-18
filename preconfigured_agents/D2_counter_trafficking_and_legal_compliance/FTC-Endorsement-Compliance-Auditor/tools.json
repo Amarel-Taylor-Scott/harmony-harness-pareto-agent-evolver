@@ -1,0 +1,40 @@
+{
+  "agent_id": "FTC-Endorsement-Compliance-Auditor",
+  "domain_id": "D2_counter_trafficking_and_legal_compliance",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__ftc_endorsement_compliance_auditor__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__ftc_endorsement_compliance_auditor__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__ftc_endorsement_compliance_auditor__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

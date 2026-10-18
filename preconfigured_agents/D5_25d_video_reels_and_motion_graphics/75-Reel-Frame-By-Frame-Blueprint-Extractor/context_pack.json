@@ -1,0 +1,7 @@
+{
+  "agent_id": "75-Reel-Frame-By-Frame-Blueprint-Extractor",
+  "domain_id": "D5_25d_video_reels_and_motion_graphics",
+  "matched_benign_twin": "75-Reel-Frame-By-Frame-Blueprint-Extractor look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "75-Reel-Frame-By-Frame-Blueprint-Extractor adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "75-Reel-Frame-By-Frame-Blueprint-Extractor verified golden execution trace with zero CWE/policy regressions."
+}

@@ -1,0 +1,40 @@
+{
+  "agent_id": "Local-127-0-0-1-Zero-Cloud-Sovereign-Agent",
+  "domain_id": "D8_cross_harness_federation_and_byok_routing",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__local_127_0_0_1_zero_cloud_sovereign_agent__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__local_127_0_0_1_zero_cloud_sovereign_agent__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__local_127_0_0_1_zero_cloud_sovereign_agent__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

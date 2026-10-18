@@ -1,0 +1,40 @@
+{
+  "agent_id": "Tool-Nerf-And-Coding-Reset-Auto-Swapper",
+  "domain_id": "D7_autonomous_devops_cloudflare_and_self_rag",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__tool_nerf_and_coding_reset_auto_swapper__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__tool_nerf_and_coding_reset_auto_swapper__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__tool_nerf_and_coding_reset_auto_swapper__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

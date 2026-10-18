@@ -1,0 +1,7 @@
+{
+  "agent_id": "Semiconductor-Substrate-Bottleneck-Analyst",
+  "domain_id": "D3_market_alpha_and_financial_forensics",
+  "matched_benign_twin": "Semiconductor-Substrate-Bottleneck-Analyst look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Semiconductor-Substrate-Bottleneck-Analyst adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Semiconductor-Substrate-Bottleneck-Analyst verified golden execution trace with zero CWE/policy regressions."
+}

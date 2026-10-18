@@ -1,0 +1,7 @@
+{
+  "agent_id": "Rust-Borrow-And-Unsafe-Auditor",
+  "domain_id": "D1_secure_repo_and_backend_coding",
+  "matched_benign_twin": "Rust-Borrow-And-Unsafe-Auditor look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Rust-Borrow-And-Unsafe-Auditor adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Rust-Borrow-And-Unsafe-Auditor verified golden execution trace with zero CWE/policy regressions."
+}

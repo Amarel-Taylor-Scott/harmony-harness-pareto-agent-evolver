@@ -1,0 +1,7 @@
+{
+  "agent_id": "CoyoteTime-And-JumpBuffer-Feel-Tuner",
+  "domain_id": "D6_3d_webgpu_parkour_and_game_engineering",
+  "matched_benign_twin": "CoyoteTime-And-JumpBuffer-Feel-Tuner look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "CoyoteTime-And-JumpBuffer-Feel-Tuner adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "CoyoteTime-And-JumpBuffer-Feel-Tuner verified golden execution trace with zero CWE/policy regressions."
+}

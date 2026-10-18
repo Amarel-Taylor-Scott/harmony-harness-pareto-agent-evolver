@@ -1,0 +1,7 @@
+{
+  "agent_id": "Cross-Border-Entity-Resolution-Investigator",
+  "domain_id": "D2_counter_trafficking_and_legal_compliance",
+  "matched_benign_twin": "Cross-Border-Entity-Resolution-Investigator look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Cross-Border-Entity-Resolution-Investigator adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Cross-Border-Entity-Resolution-Investigator verified golden execution trace with zero CWE/policy regressions."
+}

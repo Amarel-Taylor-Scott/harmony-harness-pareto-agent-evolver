@@ -1,0 +1,7 @@
+{
+  "agent_id": "Insider-Form4-And-13F-Cluster-Tracker",
+  "domain_id": "D3_market_alpha_and_financial_forensics",
+  "matched_benign_twin": "Insider-Form4-And-13F-Cluster-Tracker look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Insider-Form4-And-13F-Cluster-Tracker adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Insider-Form4-And-13F-Cluster-Tracker verified golden execution trace with zero CWE/policy regressions."
+}

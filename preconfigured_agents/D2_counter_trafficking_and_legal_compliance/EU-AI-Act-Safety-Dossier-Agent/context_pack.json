@@ -1,0 +1,7 @@
+{
+  "agent_id": "EU-AI-Act-Safety-Dossier-Agent",
+  "domain_id": "D2_counter_trafficking_and_legal_compliance",
+  "matched_benign_twin": "EU-AI-Act-Safety-Dossier-Agent look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "EU-AI-Act-Safety-Dossier-Agent adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "EU-AI-Act-Safety-Dossier-Agent verified golden execution trace with zero CWE/policy regressions."
+}

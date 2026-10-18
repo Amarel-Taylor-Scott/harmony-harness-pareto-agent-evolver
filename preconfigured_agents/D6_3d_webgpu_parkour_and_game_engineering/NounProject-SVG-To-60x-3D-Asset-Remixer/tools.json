@@ -1,0 +1,40 @@
+{
+  "agent_id": "NounProject-SVG-To-60x-3D-Asset-Remixer",
+  "domain_id": "D6_3d_webgpu_parkour_and_game_engineering",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__nounproject_svg_to_60x_3d_asset_remixer__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__nounproject_svg_to_60x_3d_asset_remixer__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__nounproject_svg_to_60x_3d_asset_remixer__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

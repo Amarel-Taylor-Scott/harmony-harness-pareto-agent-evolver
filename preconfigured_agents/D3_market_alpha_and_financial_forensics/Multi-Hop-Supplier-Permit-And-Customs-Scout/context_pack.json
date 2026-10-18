@@ -1,0 +1,7 @@
+{
+  "agent_id": "Multi-Hop-Supplier-Permit-And-Customs-Scout",
+  "domain_id": "D3_market_alpha_and_financial_forensics",
+  "matched_benign_twin": "Multi-Hop-Supplier-Permit-And-Customs-Scout look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Multi-Hop-Supplier-Permit-And-Customs-Scout adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Multi-Hop-Supplier-Permit-And-Customs-Scout verified golden execution trace with zero CWE/policy regressions."
+}

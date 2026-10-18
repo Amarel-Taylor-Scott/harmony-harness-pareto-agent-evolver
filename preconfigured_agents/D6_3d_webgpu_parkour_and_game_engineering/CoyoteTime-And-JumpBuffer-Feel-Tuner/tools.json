@@ -1,0 +1,40 @@
+{
+  "agent_id": "CoyoteTime-And-JumpBuffer-Feel-Tuner",
+  "domain_id": "D6_3d_webgpu_parkour_and_game_engineering",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__coyotetime_and_jumpbuffer_feel_tuner__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__coyotetime_and_jumpbuffer_feel_tuner__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__coyotetime_and_jumpbuffer_feel_tuner__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

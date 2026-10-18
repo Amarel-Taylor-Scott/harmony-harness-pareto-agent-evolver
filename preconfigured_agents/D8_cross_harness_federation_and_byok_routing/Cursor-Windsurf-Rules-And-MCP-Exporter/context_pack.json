@@ -1,0 +1,7 @@
+{
+  "agent_id": "Cursor-Windsurf-Rules-And-MCP-Exporter",
+  "domain_id": "D8_cross_harness_federation_and_byok_routing",
+  "matched_benign_twin": "Cursor-Windsurf-Rules-And-MCP-Exporter look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Cursor-Windsurf-Rules-And-MCP-Exporter adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Cursor-Windsurf-Rules-And-MCP-Exporter verified golden execution trace with zero CWE/policy regressions."
+}

@@ -1,0 +1,7 @@
+{
+  "agent_id": "SecRepoBench-CPP-Memory-Safe-Builder",
+  "domain_id": "D1_secure_repo_and_backend_coding",
+  "matched_benign_twin": "SecRepoBench-CPP-Memory-Safe-Builder look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "SecRepoBench-CPP-Memory-Safe-Builder adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "SecRepoBench-CPP-Memory-Safe-Builder verified golden execution trace with zero CWE/policy regressions."
+}

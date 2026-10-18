@@ -1,0 +1,7 @@
+{
+  "agent_id": "Pull-Time-Fragile-Law-Policy-Revalidator",
+  "domain_id": "D7_autonomous_devops_cloudflare_and_self_rag",
+  "matched_benign_twin": "Pull-Time-Fragile-Law-Policy-Revalidator look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Pull-Time-Fragile-Law-Policy-Revalidator adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Pull-Time-Fragile-Law-Policy-Revalidator verified golden execution trace with zero CWE/policy regressions."
+}

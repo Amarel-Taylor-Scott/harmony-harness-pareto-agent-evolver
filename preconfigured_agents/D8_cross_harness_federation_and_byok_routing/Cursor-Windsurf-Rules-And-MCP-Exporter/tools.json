@@ -1,0 +1,40 @@
+{
+  "agent_id": "Cursor-Windsurf-Rules-And-MCP-Exporter",
+  "domain_id": "D8_cross_harness_federation_and_byok_routing",
+  "least_privilege": true,
+  "mcp_tools": [
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__cursor_windsurf_rules_and_mcp_exporter__read_context",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__cursor_windsurf_rules_and_mcp_exporter__execute_task_step",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "effect_authority": "pure_or_scoped_workspace",
+      "name": "mcp__cursor_windsurf_rules_and_mcp_exporter__run_independent_verifier",
+      "parameters": {
+        "required": [
+          "request_id",
+          "input_digest"
+        ],
+        "type": "object"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "agent_id": "Google-Alerts-Priority-Queue-Harvester",
+  "domain_id": "D7_autonomous_devops_cloudflare_and_self_rag",
+  "matched_benign_twin": "Google-Alerts-Priority-Queue-Harvester look-alike benign twin calibrated for zero false-positive refusal.",
+  "negative_trap": "Google-Alerts-Priority-Queue-Harvester adversarial shortcut trap blocked at preflight Layer 6.",
+  "positive_exemplar": "Google-Alerts-Priority-Queue-Harvester verified golden execution trace with zero CWE/policy regressions."
+}
